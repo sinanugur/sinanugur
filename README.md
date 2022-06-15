@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 I am a researcher at Department of Pathology, Institute of Clinical Medicine, University of Oslo, Norway.
 
