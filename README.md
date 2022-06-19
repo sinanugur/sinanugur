@@ -9,7 +9,7 @@ I am a researcher at Department of Pathology, Institute of Clinical Medicine, Un
 
 ![](https://komarev.com/ghpvc/?username=sinanugur)
 
-https://img.shields.io/twitter/follow/sinanugur?style=social
+![](https://img.shields.io/twitter/follow/sinanugur?style=social)
 
 <!--
 **sinanugur/sinanugur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
