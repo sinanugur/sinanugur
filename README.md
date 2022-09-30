@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I am a researcher at Department of Pathology, Institute of Clinical Medicine, University of Oslo, Norway and working in the [Jahnsenlab](https://jahnsenlab.org/).
+I am a researcher at Department of Pathology, Institute of Clinical Medicine, University of Oslo, Norway and working in the [Jahnsen lab](https://jahnsenlab.org/).
 
 - 🔭 My research interests include spatial transcriptomics, single and bulk RNA sequencing, early detection of cancer, RNA biology of cancer and RNA-RNA interactions. 
 
