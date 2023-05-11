@@ -2,7 +2,7 @@
 
 I am a researcher at Department of Pathology, Institute of Clinical Medicine, University of Oslo, Norway and working in the [Jahnsen lab](https://jahnsenlab.org/).
 
-- 🔭 My research interests include biostatistics, bioinformatics, spatial transcriptomics, single and bulk RNA sequencing, early detection of cancer, RNA biology of cancer and RNA-RNA interactions. 
+- 🔭 My research interests include biostatistics, bioinformatics, molecular epidemiology, spatial transcriptomics, single and bulk RNA sequencing, early detection of cancer, RNA biology of cancer and RNA-RNA interactions. 
 
 - 🌱 I did my PhD (Biotechnology/Bioinformatics) at University of Canterbury, New Zealand. I was working on non-coding RNA interactions in prokaryotes. My PhD thesis focused on ncRNA-mRNA interactions in prokaryotic genomes (bacteria and archaea).
 
