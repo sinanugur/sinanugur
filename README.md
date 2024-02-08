@@ -1,11 +1,12 @@
 ### Hello there 👋
 
-I am a researcher at Department of Pathology, Institute of Clinical Medicine, University of Oslo, Norway and working in the [Jahnsen lab](https://jahnsenlab.org/).
+I am a senior bioinformatics research scientist at Department of Pathology, Institute of Clinical Medicine, University of Oslo, Norway and working in the [Jahnsen lab](https://jahnsenlab.org/).
+
+- ⚡ I have been developing open-source bioinformatics tools downloaded by thousands including [MirMachine](https://github.com/sinanugur/MirMachine) and [cellsnake](https://github.com/sinanugur/cellsnake).
 
 - 🔭 My research interests include biostatistics, bioinformatics, molecular epidemiology, spatial transcriptomics, single and bulk RNA sequencing, early detection of cancer, RNA biology of cancer and RNA-RNA interactions. 
 
 - 🌱 I did my PhD (Biotechnology/Bioinformatics) at University of Canterbury, New Zealand. I was working on non-coding RNA interactions in prokaryotes. My PhD thesis focused on ncRNA-mRNA interactions in prokaryotic genomes (bacteria and archaea).
-
 
 ![](https://komarev.com/ghpvc/?username=sinanugur)
 
