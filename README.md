@@ -4,7 +4,7 @@ I am a senior bioinformatics research scientist at Department of Pathology, Inst
 
 - ⚡ I have been developing open-source bioinformatics tools downloaded by thousands including [MirMachine](https://github.com/sinanugur/MirMachine) and [cellsnake](https://github.com/sinanugur/cellsnake).
 
-- 🔭 My research interests include biostatistics, bioinformatics, molecular epidemiology, spatial transcriptomics, single and bulk RNA sequencing, early detection of cancer, RNA biology of cancer and RNA-RNA interactions. 
+- 🔭 My research interests include biostatistics, bioinformatics, molecular epidemiology, spatial transcriptomics, single and bulk RNA sequencing, early detection of cancer using ML and AI, RNA biology of cancer and RNA-RNA interactions. 
 
 - 🌱 I completed my doctoral studies in the fields of Biotechnology and Bioinformatics at the University of Canterbury in New Zealand. My research concentrated on the non-coding RNAs in prokaryotic organisms. The primary emphasis of my dissertation was on the interactions between non-coding RNAs and messenger RNAs within the genomes of bacteria and archaea.
 
