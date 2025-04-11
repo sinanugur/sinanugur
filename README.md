@@ -1,9 +1,9 @@
 ### Hello there 👋
 
 <p align="center">
-  <img src="cellsnake_logo.png" alt="Logo 1" width="100" style="margin-right: 20px;">
-  <img src="easydecon_logo.jpg" alt="Logo 2" width="100" style="margin-right: 20px;">
-  <img src="mirmachine_logo.png" alt="Logo 3" width="100">
+  <img src="cellsnake-logo.png" alt="Logo 1" width="100" style="margin-right: 20px;">
+  <img src="easydecon-logo.png" alt="Logo 2" width="100" style="margin-right: 20px;">
+  <img src="mirmachine-logo.png" alt="Logo 3" width="100">
 </p>
 
 
