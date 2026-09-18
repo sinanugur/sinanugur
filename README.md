@@ -7,7 +7,7 @@
 </p>
 
 
-I am a senior bioinformatics research scientist at Department of Pathology, Institute of Clinical Medicine, University of Oslo, Norway and working in the [Jahnsen lab](https://jahnsenlab.org/). My job profile at [Klinmed UiO](https://www.med.uio.no/klinmed/english/people/aca/sinanuu/)  
+I am a Researcher and senior bioinformatics research scientist at Department of Pathology, Institute of Clinical Medicine, University of Oslo, Norway and working in the [Jahnsen lab](https://jahnsenlab.org/). My job profile at [Klinmed UiO](https://www.med.uio.no/klinmed/english/people/aca/sinanuu/)  
 
 - ⚡ I have been developing open-source bioinformatics tools downloaded by thousands including [MirMachine](https://github.com/sinanugur/MirMachine) and [cellsnake](https://github.com/sinanugur/cellsnake).
 
